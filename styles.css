@@ -1,0 +1,59 @@
+
+body, html {
+    height: 100%;
+    margin: 0;
+    background-color: #C6E5EA;
+  }
+.header-image{
+    background-image: url("image/brooke-lark-4J059aGa5s4-unsplash.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card-body{
+  background-color: #1D5962;
+}
+
+
+.btn-1{
+  background-color: #F8A978;
+}
+
+.header-text{
+  margin-top: 10%;
+}
+
+
+.footer{
+  /* background-image: url(image/Frame\ 33121.png); */
+  /* background-color: #1D5962; */
+  /* height: 100%;
+  width: 100%; */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.services{
+    background-image: url("image/Frame 33121.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80%;
+}
+
+.main-div{
+  position: relative;
+}
+
+.sub-div{
+  position: absolute;
+  bottom: 0px;
+}
+
+.roundedd{
+  border-radius: 200px 200px 0 0;
+}
+
